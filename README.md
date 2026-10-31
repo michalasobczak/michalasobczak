@@ -1,6 +1,6 @@
 # Michał Sobczak
 
-IT professional since 2005 — architecture, infrastructure and DevOps. These days I focus on **security and AI/ML**: running, fine-tuning and securing models on my own hardware, from LoRA training with MLX on a Mac Studio to GPU passthrough on Proxmox and on-premise video detection with Frigate.
+IT professional since 2005, working across software architecture, infrastructure and DevOps. These days I focus on **security and AI/ML** — and on how teams can build software with AI without losing sight of what they are building.
 
 ## Rondo
 
