@@ -1,8 +1,10 @@
 # Michał Sobczak
 
-I work on IT architecture, infrastructure and DevOps, and these days mostly on **AI/ML security**.
+IT professional since 2005 — architecture, infrastructure and DevOps. These days I focus on **security and AI/ML**: running, fine-tuning and securing models on my own hardware, from LoRA training with MLX on a Mac Studio to GPU passthrough on Proxmox and on-premise video detection with Frigate.
 
-I've written several books on software quality, Ruby, microservices and high-performance computing (OpenCL, CPU/GPU).
-After hours I enjoy retro computing: Commodore 64, x86 boot sectors, microcontrollers.
+- **Rondo** — I created [Rondo](https://workwithrondo.com), an open methodology for building software with AI as a team: Context-Driven Development, shared specifications, and people and AI assistants working from the same context.
+- **Books** — I've written books on software quality, Ruby and microservices (Helion), and high-performance computing with OpenCL on CPUs and GPUs (Ridero).
+- **Notes** — 200+ hands-on articles since 2020 on self-hosted infrastructure, virtualization, networking, GPU computing and local AI, all tested on real hardware: [michalasobczak.pl](https://michalasobczak.pl)
+- **After hours** — retro computing and electronics: Commodore 64, x86 boot sectors, ESP8266, a mini CNC built from CD-ROM drives.
 
-Notes and articles: [michalasobczak.pl](https://michalasobczak.pl)
+I studied computer programming and economics at SGH Warsaw School of Economics.
