@@ -12,7 +12,7 @@ Rondo organizes work around **specification sessions**: people with business, fu
 
 It works together with **Context-Driven Development (CDD)**, which keeps four lasting artifacts: `specs/` (what we intend to build), `CHANGELOG` (what was actually built), tests (proof that it works) and `README` (the current state). Every spec has the same nine sections, from TL;DR to control gates and expected outcome. The goal is reproducibility: another AI assistant should be able to rebuild the software from these artifacts alone.
 
-Rondo doesn't replace Scrum or Kanban — it changes how knowledge flows and how teams are composed. Start with the [path for leaders](https://workwithrondo.com/#leaders) or the [cookbook for practitioners](https://workwithrondo.com/#practitioners).
+Rondo doesn't necessarily replace Scrum or Kanban (though it certainly can) — at its core, it changes how knowledge flows and how teams are composed. Start with the [path for leaders](https://workwithrondo.com/#leaders) or the [cookbook for practitioners](https://workwithrondo.com/#practitioners).
 
 ## Also
 
